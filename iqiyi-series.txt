@@ -1,0 +1,70 @@
+	{
+   "name": "IQIYI Series",
+   "author": "ผู้เฒ่าพเนจร",
+   "url": "",
+   "image": "",
+   "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+		 
+   "groups": [
+
+
+			{
+				"name": "♥ 🇹🇭 IQIYI Series page 1 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/4c9o83rtxjtwmelqq6bvh/digital-tv.jpg?rlkey=gbxqeifo149bocu1ufis4k8o9&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/0llqamjut5e2b3seifxst/iqiyi-1.html?rlkey=kkbayjw76vky3m2r2kz5c5fy5&dl=1",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 IQIYI Series page 2 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/33jpvpxm0g9k6dbtoonbb/small-sport-tv.jpg?rlkey=6jw8x2bnik61w7b9imarndgo1&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/itplqclwoef5odk4gzeyf/iqiyi-2.html?rlkey=6ewzq0g9fqyk8z49owd5ffual&dl=1",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 IQIYI Series page 3 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/33jpvpxm0g9k6dbtoonbb/small-sport-tv.jpg?rlkey=6jw8x2bnik61w7b9imarndgo1&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/7dalpy7wyp5io45l8b38r/iqiyi-3.html?rlkey=m7lx7qj0p4n6whxp72vmkzpd4&dl=1",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 IQIYI Series page 4 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/4c9o83rtxjtwmelqq6bvh/digital-tv.jpg?rlkey=gbxqeifo149bocu1ufis4k8o9&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/6sbu6olv2g9pbvhp7x9be/iqiyi-4.html?rlkey=u27nt6zxlybcxuko8mck9xazj&dl=1",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 IQIYI Series page 5 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/33jpvpxm0g9k6dbtoonbb/small-sport-tv.jpg?rlkey=6jw8x2bnik61w7b9imarndgo1&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/qbqjsi945lw77xdaijzlp/iqiyi-5.html?rlkey=ixxc398meat3cwumjn50w1ciw&dl=1",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 IQIYI Series page 6 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/33jpvpxm0g9k6dbtoonbb/small-sport-tv.jpg?rlkey=6jw8x2bnik61w7b9imarndgo1&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/43htdrf0fqn9g1jo9xh4b/iqiyi-6.html?rlkey=2kbch9d5ib4l1qwlq51cc6twr&dl=1",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 IQIYI Series page 7 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/4c9o83rtxjtwmelqq6bvh/digital-tv.jpg?rlkey=gbxqeifo149bocu1ufis4k8o9&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/nvhffwkfnwxqw9fm1jftb/iqiyi-7.html?rlkey=woqweklvrnxjhxcazlcswxccu&dl=1",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 IQIYI Series page 8 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/33jpvpxm0g9k6dbtoonbb/small-sport-tv.jpg?rlkey=6jw8x2bnik61w7b9imarndgo1&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/abq1dww4jix23d3ze5e1u/iqiyi-8.html?rlkey=1pvbkjzqp8wb4qgtzpfv55wnj&dl=1",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 IQIYI Series page 9 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/33jpvpxm0g9k6dbtoonbb/small-sport-tv.jpg?rlkey=6jw8x2bnik61w7b9imarndgo1&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/51dws7m1i6pwqqucdr462/iqiyi-9.html?rlkey=fn9wneem4vda4h906ffkkf1s9&dl=1",
+				"import": false},
+
+
+]
+}
